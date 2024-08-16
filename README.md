@@ -10,8 +10,8 @@
 
 | 이태웅 | 이현담 |
 | :-: | :-: |
-| <img src='https://github.com/taewoong1.png' height=130 width=130></img> | <img src='https://github.com/.png' height=130 width=130></img> |
-| <a href="https://github.com/taewoong1" target="_blank"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=round&logo=github"/></a> | <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=round&logo=github"/></a> |
+| <img src='https://github.com/taewoong1.png' height=130 width=130></img> | <img src='https://github.com/dlguseka.png' height=130 width=130></img> |
+| <a href="https://github.com/taewoong1" target="_blank"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=round&logo=github"/></a> | <a href="https://github.com/dlguseka" target="_blank"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=round&logo=github"/></a> |
   
 <br>
 
