@@ -4,8 +4,6 @@
  > **연봉 조건, 위치, 세부직무**를 반영한 최적의 **기업 정보**를 추천합니다.
 
 ## 🙌 Members
-![image](https://github.com/user-attachments/assets/23a48e07-e049-45ac-ba97-0a81ababc4e6)
-
 <br>
 
 | 이태웅 | 이현담 |
